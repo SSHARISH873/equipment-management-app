@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Mixing Machine 101",
+    "type": "Machine",
+    "status": "Active",
+    "lastCleaned": "2025-12-10"
+  },
+  {
+    "id": "2",
+    "name": "Storage Tank A",
+    "type": "Tank",
+    "status": "Under Maintenance",
+    "lastCleaned": "2025-11-25"
+  },
+  {
+    "id": "3",
+    "name": "Vessel 7",
+    "type": "Vessel",
+    "status": "Inactive",
+    "lastCleaned": "2025-12-01"
+  },
+  {
+    "id": "4",
+    "name": "Industrial Mixer 22",
+    "type": "Mixer",
+    "status": "Active",
+    "lastCleaned": "2025-12-12"
+  }
+]
